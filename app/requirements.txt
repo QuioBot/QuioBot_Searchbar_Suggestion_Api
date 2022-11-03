@@ -1,0 +1,5 @@
+torch
+fastapi
+# gunicorn[standard]
+numpy
+uvicorn[standard]
